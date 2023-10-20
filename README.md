@@ -5,7 +5,7 @@
 
 - 🌱 Eu estou estudando DS para me tornar um programador FULLSTACK ...
 - ✉️ Caso queira entrar em contato comigo por e-mail: moises.barsot2@gmail.com
-- 🎇Eu tenho 18 anos e faço aniversário 03/07/2005
+- 🎇 Eu tenho 18 anos e faço aniversário 03/07/2005
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
 
