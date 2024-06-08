@@ -1,4 +1,4 @@
-### Oii! tudo bem?... Brm vindo ao meu Github👋
+### Oii! tudo bem?... Bem vindo ao meu Github👋
 
 
 
@@ -29,5 +29,6 @@
 
 ---
 
-Frameworks/Bibliotecas
+<h2>Frameworks/Bibliotecas</h2>
+
                     
