@@ -14,6 +14,7 @@
 </a>
 
 --
+
 Linguagens
 
 <div style="display: flex;"><br>
@@ -27,5 +28,6 @@ Linguagens
 </div>
 
 --
+
 Frameworks/Bibliotecas
                     
