@@ -13,8 +13,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-Linguagens
 --
+Linguagens
 
 <div style="display: flex;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +26,6 @@ Linguagens
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-Frameworks/Bibliotecas
 --
+Frameworks/Bibliotecas
                     
