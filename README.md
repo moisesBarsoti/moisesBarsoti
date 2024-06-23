@@ -1,6 +1,6 @@
 <h2>Moisés Barsoti</h2> 
 
-### Olá! tudo bem?... Bem vindo ao meu Github👋
+### Olá! tudo bem?... Seja bem vindo ao meu Github👋
 
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow">
