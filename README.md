@@ -18,6 +18,14 @@
 
 ---
 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
+
+ <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+
 <h2>Linguagens</h2> 
 
 <div style="display: flex;"><br> 
@@ -55,8 +63,4 @@
   Nodejs
 </div>     
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
 
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
