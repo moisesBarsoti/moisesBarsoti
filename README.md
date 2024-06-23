@@ -1,7 +1,5 @@
 <h2>Moisés Barsoti</h2> 
 - 🌱 Eu sou um programador FULLSTACK...
-[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
 - 🎇 Eu tenho 18 anos e faço aniversário 03/07/2005.
 
 ### Olá! tudo bem?... Bem vindo ao meu Github👋
