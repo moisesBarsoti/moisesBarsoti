@@ -7,11 +7,11 @@
 - 🎇 Eu tenho 18 anos e faço aniversário 03/07/05.
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow">
-<img src="https://img.shields.io/badge/-Mois%C3%A9s-03a9f4?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Mois%C3%A9s-3c99dc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
 </a>
 
 <a href="mailto:moises.barsot2@gmail.com">
-<img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-03a9f4?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-3c99dc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
 </a>
 
 
