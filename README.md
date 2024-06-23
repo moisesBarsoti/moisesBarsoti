@@ -7,7 +7,7 @@
 - 🎇 Eu tenho 18 anos e faço aniversário 03/07/05.
 - 📩 Entrar em Contato: 👇🏼
 
-<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow">
+<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
 <img src="https://img.shields.io/badge/-Mois%C3%A9s-3c99dc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
 </a>
 
