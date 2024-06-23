@@ -1,11 +1,11 @@
+<h2>Moisés Barsoti</h2> 
+- 🌱 Eu sou um programador FULLSTACK...
+[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278)](https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278) 
+[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
+- 🎇 Eu tenho 18 anos e faço aniversário 03/07/2005.
+
 ### Olá! tudo bem?... Bem vindo ao meu Github👋
 
-
-
-
-- 🌱 Eu sou um programador FULLSTACK...
-- ✉️ E-mail para contato: moises.barsot2@gmail.com
-- 🎇 Eu tenho 18 anos e faço aniversário 03/07/2005.
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
 
