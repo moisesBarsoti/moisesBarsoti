@@ -6,7 +6,7 @@
 - 🌱 Eu sou um programador FULLSTACK...
 - 🎇 Eu tenho 18 anos e faço aniversário 03/07/05.
 
-- <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow">
+<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow">
 <img src="https://img.shields.io/badge/-Mois%C3%A9s-ee714b?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
 </a>
 
