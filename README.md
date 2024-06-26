@@ -12,7 +12,7 @@
 </a>
 
 <a href="mailto:moises.barsot2@gmail.com" title="Enviar um E-mail">
-<img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-3c99dc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
 </a>
 
 
