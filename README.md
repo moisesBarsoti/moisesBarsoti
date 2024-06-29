@@ -1,6 +1,6 @@
 <h1>Moisés Barsoti</h1> 
 
-### Olá! tudo bem?... Seja bem vindo ao meu Github👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+### Olá! tudo bem?... Seja bem vindo ao meu Github👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
 
 
 
