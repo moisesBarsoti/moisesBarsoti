@@ -1,6 +1,7 @@
 <h1>Moisés Barsoti</h1> 
 
-### Olá! tudo bem?... Seja bem vindo ao meu Github👋
+### Olá! tudo bem?... Seja bem vindo ao meu Github👋 ![image](https://github.com/moisesBarsoti/moisesBarsoti/assets/146322015/61194cb8-3c7e-44b2-97c5-e888c79efb62)
+
 
 
 - 🌱 Eu sou um programador FULLSTACK...
