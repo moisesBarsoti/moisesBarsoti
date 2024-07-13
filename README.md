@@ -21,7 +21,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
 
  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=386&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=386&theme=dracula" />
 </a>
 
 
@@ -56,14 +56,3 @@
 
 
 <h2>Ferramentas</h2>
-
-<div style="display: flex;"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  Nodejs
-</div>     
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
-
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=386&theme=dark" />
-</a>
