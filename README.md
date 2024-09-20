@@ -8,7 +8,7 @@
 - 📩 Entrar em Contato: 👇🏼
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/badge/-Mois%C3%A9s-00000f?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Mois%C3%A9s-00f?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
 </a>
 <a href="mailto:moises.barsot2@gmail.com" title="Enviar um E-mail">
 <img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
