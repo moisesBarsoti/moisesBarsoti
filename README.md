@@ -50,8 +50,6 @@
 <div style="display: flex;"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   ReactJS
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djago/django-original.svg" style="background:#fff">
-  Django
 </div>                
 
 
