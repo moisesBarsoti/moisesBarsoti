@@ -3,7 +3,7 @@
 ### Olá! tudo bem?... Seja bem vindo ao meu Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
 
 
-- 🌱 Eu sou um programador FULLSTACK...
+- 🌱 Eu sou um desenvolvedor FULLSTACK...
 - 🎇 Eu tenho 19 anos e faço aniversário 03/07/05.
 - 📩 Entrar em Contato: 👇🏼
 
