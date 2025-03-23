@@ -4,7 +4,7 @@
 
 
 - 🌱 Eu sou um desenvolvedor FULLSTACK...
-- 🎇 Eu tenho 19 anos e faço aniversário 03/07/05.
+- 🎇 Eu tenho 19 anos.
 - 📩 Entrar em Contato: 👇🏼
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
