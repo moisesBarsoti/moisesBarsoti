@@ -1,65 +1,75 @@
-<h1>Moisés Barsoti</h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ccf&height=120&section=header%22"/>
 
-### Olá! tudo bem?... Seja bem vindo ao meu Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ccf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Moisés+Barsoti;I'm+from+São+Paulo;I+study+systems+development+at+FIAP;Welcome!+:%29)](https://git.io/typing-svg)
 
+# 👩🏻‍💻 About Me
 
-- 🌱 Eu sou um desenvolvedor FULLSTACK...
-- 🎇 Eu tenho 19 anos.
-- 📩 Entrar em Contato: 👇🏼
+- 🌱 I am a fullstack developer...
+- 🎇 I'm 19 years old.
+- 📩 Get in touch: 👇🏼
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Logo do Linkedin"  />
 </a>
 <a href="mailto:moises.barsot2@gmail.com" title="Enviar um E-mail">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Logo do Gmail"  />
 </a>
 
 
-<h2>Estatísticas</h2> 
 
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> Git Stats 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&count_private=true&hide_border=true&title_color=0ccf&icon_color=0ccf&text_color=c9d1d9&bg_color=0d1117" alt="Moisés Barsoti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesBarsoti&layout=compact&hide_border=true&title_color=0ccf&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesBarsoti&bg_color=0d1117&color=0ccf&line=0ccf&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph" />
+</div>
+ 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
+---
 
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=386&theme=dracula" />
-</a>
+## 🚀 Main skills:
 
+### 🌐 Front-End:
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=css-modules&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h2>Linguagens</h2> 
+### 🛠️ Back-End:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div style="display: flex;"><br> 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  Html
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  CSS
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  Javascript 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  Typescript 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  PHP
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  Python
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  Java     
+### 🗄️ Database:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Microsoft_Windows-0078D6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-3C873A?style=for-the-badge&logo=nodejs&logoColor=white)
+
+---
+
+## 🌟 Studying in this moment:
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+##
+
+<div align="center">
+    <br>
+    <p style="font-size: 20px; font-weight: bold;">Visitors Count</p>  
+    <p>
+        <img src="https://profile-counter.glitch.me/{laiscrz}/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;"/>
+    </p> 
+    <br>
 </div>
 
+##
 
-<h2>Frameworks/Bibliotecas</h2>
-
-<div style="display: flex;"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  ReactJS
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">  
-  Tailwind CSS
-</div>                
-
-
-<h2>Ferramentas</h2>
-
-<div style="display: flex;"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  NodeJS
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
-  VSCode
-</div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ccf&height=120&section=header%22"/>
