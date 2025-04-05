@@ -2,18 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ccf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Moisés+Barsoti;I'm+from+São+Paulo;I+study+systems+development+at+FIAP;Welcome!+:%29)](https://git.io/typing-svg)
 
-# 👩🏻‍💻 About Me
+# 👨‍💻 About Me
 
-- 🌱 I am a fullstack developer...
-- 🎇 I'm 19 years old.
-- 📩 Get in touch: 👇🏼
+- 🌱 I’m passionate about technology and currently a full-stack developer building innovative solutions.
+- 📖 Studying Systems Development at FIAP, one of the top tech institutions in Brazil.
+- 🎇 I’m 19 years old and motivated to learn and grow in the field of programming.
+- 🤝 I enjoy collaborating on projects and sharing knowledge to create impactful digital experiences.
+- 📩 Feel free to reach out to me:
 
-<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Logo do Linkedin"  />
+<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="LinkedIn Profile">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" />
 </a>
-<a href="mailto:moises.barsot2@gmail.com" title="Enviar um E-mail">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Logo do Gmail"  />
+<a href="mailto:moises.barsot2@gmail.com" title="Send me an email">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo" />
 </a>
+
 
 
 
