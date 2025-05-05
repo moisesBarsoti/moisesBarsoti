@@ -4,7 +4,7 @@
 
 # 👨‍💻 About Me
 
-- 🌱 I’m passionate about technology and currently a full-stack developer building innovative solutions.
+- 🌱 I’m passionate about technology and currently a back-end developer building innovative solutions.
 - 📖 Studying Systems Development at FIAP, one of the top tech institutions in Brazil.
 - 🎇 I’m 19 years old and motivated to learn and grow in the field of programming.
 - 🤝 I enjoy collaborating on projects and sharing knowledge to create impactful digital experiences.
