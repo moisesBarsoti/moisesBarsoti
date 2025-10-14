@@ -68,7 +68,7 @@
     <br>
     <p style="font-size: 20px; font-weight: bold;">Visitors Count</p>  
     <p>
-        <img src="https://profile-counter.glitch.me/{laiscrz}/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;"/>
+        <img src="https://profile-counter.glitch.me/{moisesBarsoti}/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;"/>
     </p> 
     <br>
 </div>
