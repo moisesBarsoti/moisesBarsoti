@@ -38,6 +38,7 @@
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=css-modules&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React.ts](https://img.shields.io/badge/React.ts-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Back-End:
@@ -57,22 +58,5 @@
 ![NodeJS](https://img.shields.io/badge/nodejs-3C873A?style=for-the-badge&logo=nodejs&logoColor=white)
 
 ---
-
-## 🌟 Studying in this moment:
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-##
-
-<div align="center">
-    <br>
-    <p style="font-size: 20px; font-weight: bold;">Visitors Count</p>  
-    <p>
-        <img src="https://profile-counter.glitch.me/{moisesBarsoti}/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;"/>
-    </p> 
-    <br>
-</div>
-
-##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ccf&height=120&section=header%22"/>
