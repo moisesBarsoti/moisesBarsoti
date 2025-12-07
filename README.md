@@ -24,11 +24,6 @@
 
 <div align="center">
 
-<!-- INSTÂNCIA ESTÁVEL ALTERNATIVA -->
-<img width="53%" height="195px" src="https://github-readme-stats-mu-two-20.vercel.app/api?username=moisesBarsoti&show_icons=true&count_private=true&hide_border=true&title_color=0ccf&icon_color=0ccf&text_color=c9d1d9&bg_color=0d1117" alt="Moisés Barsoti Github Stats"/>
-
-<img width="41%" height="195px" src="https://github-readme-stats-mu-two-20.vercel.app/api/top-langs/?username=moisesBarsoti&layout=compact&hide_border=true&title_color=0ccf&text_color=FFFFFF&bg_color=0d1117"/>
-
 <!-- GRAPH ESTÁVEL -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesBarsoti&bg_color=0d1117&color=0ccf&line=0ccf&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph"/>
 
