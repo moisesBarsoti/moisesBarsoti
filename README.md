@@ -20,13 +20,12 @@
 
 
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="40"> GitHub Stats  
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="40"> Git Stats 
+<div align="center">  
 
-<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesBarsoti&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ccf&ring=0ccf&fire=0ccf&currStreakLabel=0ccf" />
 
-<!-- GRAPH ESTÁVEL -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesBarsoti&bg_color=0d1117&color=0ccf&line=0ccf&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesBarsoti&bg_color=0d1117&color=0ccf&line=0ccf&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph" />
 </div>
  
 
