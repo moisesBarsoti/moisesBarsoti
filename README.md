@@ -20,13 +20,15 @@
 
 
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="40"> Git Stats 
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> Git Stats 
 <div align="center">  
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesBarsoti&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ccf&ring=0ccf&fire=0ccf&currStreakLabel=0ccf" />
 
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=moisesBarsoti&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ccf&ring=0ccf&fire=0ccf&currStreakLabel=0ccf" />
-
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&count_private=true&hide_border=true&title_color=0ccf&icon_color=0ccf&text_color=c9d1d9&bg_color=0d1117" alt="Moisés Barsoti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesBarsoti&layout=compact&hide_border=true&title_color=0ccf&text_color=FFFFFF&bg_color=0d1117" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moisesBarsoti&bg_color=0d1117&color=0ccf&line=0ccf&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph" />
 </div>
+
  
 
 ---
